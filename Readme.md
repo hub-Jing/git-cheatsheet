@@ -1,6 +1,7 @@
-# Readme.md
+# Filename = Readme.md
 
-This is my fit cheat sheet
+This is my git cheat sheet.Its my **first** cheat sheet!
+Please feel free to add.
 
 # git commands
 ```bash
