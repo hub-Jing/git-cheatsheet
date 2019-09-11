@@ -30,3 +30,19 @@ other Git things
 **.gitignore** is a file that tells git  files/folders that are not to ve part of the repository
 
 THis line will be detelted next
+
+```bash
+git log 
+````
+show a history of the commits made to this point in time
+
+```bash
+git log --all --decorate --oneline --graph
+```
+-display a graph of commits, one commit per line
+
+```bash 
+git config --global alias.adog "log --all --decorate --oneline --graph
+```
+- creats a git alias for the log all decorate oneline graph 
+- use this alias by git adog
