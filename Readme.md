@@ -25,4 +25,8 @@ commits the stashed files to the repo, and adds the message that describes what 
 
 - creates a repository called REPO-NAME
 
+other Git things 
+
+**.gitignore** is a file that tells git  files/folders that are not to ve part of the repository
+
 THis line will be detelted next
